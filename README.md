@@ -17,3 +17,11 @@
 			- which locations to avoid  
 			- social distancing measures  
 			- other exposure control measures
+
+## Potential Considerations
+
+**You may consider:**
+
+- Templates and graphic are kept simple and intuitive
+- Build upon existing COVID-19 calculators and add environmental elements that help refine the risk-warning calculations
+- Potential keywords you may search online: 19 and me, covid calculator, case rates, death rates, earth engine, climate data store, monthly climate explorer
