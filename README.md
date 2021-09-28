@@ -11,5 +11,9 @@
 	- Provide application individualized, geolocated, COVID-19 risk warnings to guide social awareness, response, and health security
 	- Use risk warning models/algorithms to advice users of covid risk
 	
-		Examples: 
-			- provide the user with geolocated COVID-19 risk/susceptibility levels
+		Example:   
+			- provide the user with geolocated COVID-19 risk/susceptibility levels  
+			- guide individual decisions regarding what to wear (type of mask)  
+			- which locations to avoid  
+			- social distancing measures  
+			- other exposure control measures
