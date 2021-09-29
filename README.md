@@ -33,4 +33,5 @@
 
 
 
-_**View the resources [here](https://2021.spaceappschallenge.org/challenges/statements/covid-19-calculate-the-risk/resources)**_
+
+_**[View the resources [here](https://2021.spaceappschallenge.org/challenges/statements/covid-19-calculate-the-risk/resources)]**_
