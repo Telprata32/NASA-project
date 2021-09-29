@@ -25,6 +25,12 @@
 
 ## Potential Considerations
 
+
+
+
+
+
+
 **You may consider:**
 
 - Templates and graphic are kept simple and intuitive
