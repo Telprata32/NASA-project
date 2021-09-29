@@ -42,7 +42,7 @@ _**[View the resources [here](https://2021.spaceappschallenge.org/challenges/sta
 
 - Frontend UI - Flutter
 - Backend database - Firebase/Firecast or something else (probably plus python)
-- DOM element parser - [ParseHub](https://www.parsehub.com/)
+- DOM element parser - [ParseHub](https://www.parsehub.com/) or flutter's default parser
  
 More: 
 - Using Python: [Python to Collect Data from any Website](https://towardsdatascience.com/how-to-collect-data-from-any-website-cb8fad9e9ec5)
