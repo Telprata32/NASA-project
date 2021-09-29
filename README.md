@@ -30,3 +30,7 @@
 - Templates and graphic are kept simple and intuitive
 - Build upon existing COVID-19 calculators and add environmental elements that help refine the risk-warning calculations
 - Potential keywords you may search online: 19 and me, covid calculator, case rates, death rates, earth engine, climate data store, monthly climate explorer
+
+
+
+_**View the resources [here](https://2021.spaceappschallenge.org/challenges/statements/covid-19-calculate-the-risk/resources)**_
