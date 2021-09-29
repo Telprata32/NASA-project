@@ -1,4 +1,4 @@
-# Our Project Notes
+# Project Brief/Notes
 
 ## Background 
 
@@ -35,3 +35,15 @@
 
 
 _**[View the resources [here](https://2021.spaceappschallenge.org/challenges/statements/covid-19-calculate-the-risk/resources)]**_
+
+## Our Notes
+
+### Methods and Tools
+
+- Frontend UI - Flutter
+- Backend database - Firebase/Firecast or something else (probably plus python)
+- DOM element parser - [ParseHub](https://www.parsehub.com/)
+ 
+More: 
+- Using Python: [Python to Collect Data from any Website](https://towardsdatascience.com/how-to-collect-data-from-any-website-cb8fad9e9ec5)
+
