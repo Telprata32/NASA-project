@@ -6,6 +6,11 @@
 	- 199 million cases
 	- 4.24 million deaths
 
+- Plenty of open-source COVID-related research findings, but many of these are inconclusive and require more data
+
+- The challenge is to attempt to consolidate open-source COVID-related info and integrate it in a quantified, computational framework.
+	- Use open-source environmental observations (remote sensing/in situ/modeled) to distinguish among environmental factors (e.g,Temperature, Relative or Specific Humidity, Winds, Pressure, Pollution PM2.5, Solar Radiation/UV etc.) possibly associated with SARS-CoV-2/COVID-19 infectiousness and propagation, and concurrent forcings due to policy (e.g., lockdowns, slow-downs..), social practice (wearing masks, social distancing…), demographics (population density, GDP, air conditioned vs. ventilated spaces, etc.), and economic activity (e.g., open/closed businesses, recreation/tourism, etc.).
+	
 ## Objectives 
 - Build Smartphone app:
 	- Provide application individualized, geolocated, COVID-19 risk warnings to guide social awareness, response, and health security
