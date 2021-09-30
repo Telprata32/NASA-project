@@ -42,7 +42,7 @@ _**[View the resources [here](https://2021.spaceappschallenge.org/challenges/sta
 
 - Frontend UI - Flutter 
 	- Get Started on Flutter [here](https://flutter.dev/docs/get-started/install)
-	- or if skip to Flutter's development [[Tutorial](https://flutter.dev/docs/development/ui/widgets-intro)]
+	- or skip to Flutter's development [[Tutorial](https://flutter.dev/docs/development/ui/widgets-intro)]
 - Backend database - Firebase/Firecast or something else (probably plus python)
 - DOM element parser - [ParseHub](https://www.parsehub.com/) or flutter's default parser
  
