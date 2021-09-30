@@ -46,6 +46,9 @@ _**[View the resources [here](https://2021.spaceappschallenge.org/challenges/sta
 - Backend database - Firebase/Firecast or something else (probably plus python)
 - DOM element parser - [ParseHub](https://www.parsehub.com/) or flutter's default parser
  
+Tools: 
+- Virtual smartphone for VS Code: https://flutteragency.com/setup-emulator-for-vscode/
+
 More: 
 - Using Python: [Python to Collect Data from any Website](https://towardsdatascience.com/how-to-collect-data-from-any-website-cb8fad9e9ec5)
 
