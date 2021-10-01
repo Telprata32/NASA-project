@@ -8,16 +8,30 @@ class Home extends StatefulWidget {
   _HomeState createState() => _HomeState();
 }
 
-  @override
-  class _HomeState extends State<Home> {
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: SafeArea(
+@override
+class _HomeState extends State<Home> {
+
+	late MapShapeSource _mapSource;
+
+	@override
+	void initState() {
+	  _mapSource = const MapShapeSource.asset(
+	    'assets/australia.json',
+	    shapeDataField: 'STATE_NAME',
+	  );
+	
+	  super.initState();
+	}
+
+	Widget build(BuildContext context) {
+    	return Scaffold(
+    	  body: SafeArea(
 			child: 	SfMaps(
-				layers: [
-				]
-			),
-        ),
-      );
+					layers: [
+						MapShapeLayer(source: _mapSource,),
+					],
+				),
+    		),
+    	);
 	}
 }
