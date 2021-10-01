@@ -24,7 +24,7 @@ class _HomeState extends State<Home> {
             itemContent: (context, index) {
               return Text("Current Item $index");
               },
-          )
+        		)
             ]
           ),
         ),

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nasa/pages/home.dart';
 
-void main()=>runApp(const MaterialApp(
+void main()=>runApp( MaterialApp(
   initialRoute:'/',
 
   routes:{
