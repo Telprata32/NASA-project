@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+//import 'package:intl/intl.dart';
 
 class Updates extends StatefulWidget {
 
@@ -7,23 +8,68 @@ class Updates extends StatefulWidget {
 }
 
 class _UpdatesState extends State<Updates> {
+  DateTime now=DateTime.now();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar:AppBar(
-        title:Text('Daily Statistic Updates'),
+        title:Text('Daily Statistic Updates: ${now} '),
       ),
 
       body: Container(
         child: Column(
           children:[
-            TextButton.icon(
-              onPressed:(){},
-              icon:Icon(
-                Icons.edit_location,
-              ),
-              label: Text(''),
+            Row(
+              children:[
+                Text(
+                  //cases
+                  ' cases today',
+                  style: TextStyle(
+                    color: Colors.grey,
+                    letterSpacing: 2.0,
+                  ),
+                ),
+
+                SizedBox(width: 10.0),
+
+                Text(
+                  //deaths
+                  'deaths',
+                  style: TextStyle(
+                    color: Colors.grey,
+                    letterSpacing: 2.0,
+                  ),
+                ),
+              ],
             ),
+
+            SizedBox(width: 10.0),
+
+            Row (
+              children:[
+                Text(
+                  //cases
+                  ' cases today',
+                  style: TextStyle(
+                    color: Colors.grey,
+                    letterSpacing: 2.0,
+                  ),
+                ),
+
+                SizedBox(width: 10.0),
+
+                Text(
+                  //deaths
+                  'deaths',
+                  style: TextStyle(
+                    color: Colors.grey,
+                    letterSpacing: 2.0,
+                  ),
+                ),
+              ],
+            ),
+
 
 
           ],
