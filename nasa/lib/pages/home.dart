@@ -2,10 +2,9 @@ import 'package:flutter/material.dart';
 
 
 class Home extends StatefulWidget {
-  const ({Key? key}) : super(key: key);
 
   @override
-  _State createState() => _State();
+  _HomeState createState() => _HomeState();
 }
 
 class _HomeState extends State<Home> {
@@ -15,6 +14,7 @@ class _HomeState extends State<Home> {
       body: SafeArea(
         child: Container(
           child: Column(
+<<<<<<< HEAD
             children:[
               items: <MarkerItem>[
               MarkerItem(id: 1, latitude: 31.4673274, longitude: 74.2637687),
@@ -29,8 +29,13 @@ class _HomeState extends State<Home> {
           ),
         ),
       ),
+=======
+>>>>>>> 408b051752fde609dda366d83963cced62f4acae
 
+          ),
 
+          ),
+        ),
     );
   }
 }
