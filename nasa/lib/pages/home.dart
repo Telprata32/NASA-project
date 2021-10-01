@@ -13,10 +13,11 @@ class _HomeState extends State<Home> {
     return Scaffold(
       body: SafeArea(
         child: Container(
-          child: Column(
+            child: Column(
+              children: [
 
-          ),
-
+              ],
+            ),
           ),
         ),
     );
