@@ -51,8 +51,20 @@ class MyClipper extends CustomClipper<Path> {
     return path;
   }
 
+<<<<<<< HEAD
   @override
   bool shouldReclip(CustomClipper<Path> oldClipper) {
     return false;
   }
+=======
+	Widget build(BuildContext context) {
+    	return Scaffold(
+			body: 	SfMaps(
+					layers: [
+						MapShapeLayer(source: _mapSource,),
+					],
+				),
+    		);
+	}
+>>>>>>> a01999432185505978994f6eb40788dced56c8df
 }
