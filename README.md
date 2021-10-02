@@ -52,3 +52,8 @@ Tools:
 More: 
 - Using Python: [Python to Collect Data from any Website](https://towardsdatascience.com/how-to-collect-data-from-any-website-cb8fad9e9ec5)
 
+### Factors
+
+- Indoors vs Outdoors
+	- Indoors = 95%
+	- Outdoors = 10%

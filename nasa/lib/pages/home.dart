@@ -25,13 +25,11 @@ class _HomeState extends State<Home> {
 
 	Widget build(BuildContext context) {
     	return Scaffold(
-    	  body: SafeArea(
-			child: 	SfMaps(
+			body: 	SfMaps(
 					layers: [
 						MapShapeLayer(source: _mapSource,),
 					],
 				),
-    		),
-    	);
+    		);
 	}
 }
